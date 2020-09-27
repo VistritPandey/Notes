@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #7bdaf3;
+    background-color: #000000;
     display: flex;
     flex-wrap: wrap;
     font-family: "Tangerine", serif;
@@ -14,10 +14,10 @@ body {
 }
 
 .add {
-    background-color: #9ec862;
+    background-color: #629ac8;
     border-radius: 3px;
     border: none;
-    color: white;
+    color: rgb(253, 253, 253);
     cursor: pointer;
     padding: 0.5rem 1rem;
     position: fixed;
@@ -34,7 +34,7 @@ body {
 }
 
 .note .tools {
-    background-color: #9ec862;
+    background-color: #629ac8;
     display: flex;
     justify-content: flex-end;
     padding: 0.5rem;
